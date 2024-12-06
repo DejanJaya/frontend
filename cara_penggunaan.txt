@@ -1,0 +1,2 @@
+untuk menjalankan server db.json
+ json-server -w db.json -p 5000
